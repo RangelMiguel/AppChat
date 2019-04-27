@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppChat/TableViewCellMessage.swift"
+            timestampString = "578031634.7851911"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "TableViewCellMessage"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppChat.TableViewCellMessage.txtSender.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AppChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelrangel/Documents/AppChat/AppChat/TableViewCellMessage.swift"
+                  timestampString = "578025948.720225"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppChat.TableViewCellMessage.txtSender.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AppChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelrangel/Documents/AppChat/AppChat/TableViewCellMessage.swift"
+                  timestampString = "578025948.7255681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppChat.TableViewCellMessage.txtSender.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "AppChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelrangel/Documents/AppChat/AppChat/TableViewCellMessage.swift"
+                  timestampString = "578025948.730899"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppChat.TableViewCellMessage.txtSender.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AppChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelrangel/Documents/AppChat/AppChat/TableViewCellMessage.swift"
+                  timestampString = "578025948.735954"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppChat.TableViewCellMessage.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; AppChat.TableViewCellMessage"
+                  moduleName = "AppChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelrangel/Documents/AppChat/AppChat/TableViewCellMessage.swift"
+                  timestampString = "578025948.740415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppChat.TableViewCellMessage.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AppChat.TableViewCellMessage&gt;"
+                  moduleName = "AppChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miguelrangel/Documents/AppChat/AppChat/TableViewCellMessage.swift"
+                  timestampString = "578025948.7453049"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "122">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppChat/ViewController.swift"
+            timestampString = "578031634.7853349"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "buLogin(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
